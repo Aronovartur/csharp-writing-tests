@@ -18,18 +18,24 @@ while (!done)
        done = true;
        continue;
    }
-    book.AddGrade(double.Parse(grade));
-}
 
-        book.AddGrade(89.1);
-        book.AddGrade(12.3);
-        book.AddGrade(23.4);
-        var stats = book.GetStatistics();
+   try
+   {
+       book.AddGrade(double.Parse(grade));
+   }
+   catch (Exception e)
+   {
+       Console.WriteLine("Please enter numeric numbers only. no letters, except \"q\" to quit");
+       continue;
+   }
+    
+}
+      var stats = book.GetStatistics();
 
 
         Console.WriteLine($"The average grade is: {stats.Average:n1}");
-        Console.WriteLine($"The high grade is: {stats.High}");
-        Console.WriteLine($"The average grade is: {stats.Low}");
+        Console.WriteLine($"The high grade is: {stats.High:n1}");
+        Console.WriteLine($"The low grade is: {stats.Low:n1}");
         Console.WriteLine($"The letter grade is: {stats.Letter}");
     }
 }
