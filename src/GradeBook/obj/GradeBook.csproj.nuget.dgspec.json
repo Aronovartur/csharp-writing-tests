@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ghostkeeper/code/dotnet/gradebook/src/GradeBook/GradeBook.csproj": {}
+    "/home/ghostkeeper/Documents/GitHub/csharp-writing-tests/src/GradeBook/GradeBook.csproj": {}
   },
   "projects": {
-    "/home/ghostkeeper/code/dotnet/gradebook/src/GradeBook/GradeBook.csproj": {
+    "/home/ghostkeeper/Documents/GitHub/csharp-writing-tests/src/GradeBook/GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ghostkeeper/code/dotnet/gradebook/src/GradeBook/GradeBook.csproj",
+        "projectUniqueName": "/home/ghostkeeper/Documents/GitHub/csharp-writing-tests/src/GradeBook/GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "/home/ghostkeeper/code/dotnet/gradebook/src/GradeBook/GradeBook.csproj",
+        "projectPath": "/home/ghostkeeper/Documents/GitHub/csharp-writing-tests/src/GradeBook/GradeBook.csproj",
         "packagesPath": "/home/ghostkeeper/.nuget/packages/",
-        "outputPath": "/home/ghostkeeper/code/dotnet/gradebook/src/GradeBook/obj/",
+        "outputPath": "/home/ghostkeeper/Documents/GitHub/csharp-writing-tests/src/GradeBook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ghostkeeper/.nuget/NuGet/NuGet.Config"

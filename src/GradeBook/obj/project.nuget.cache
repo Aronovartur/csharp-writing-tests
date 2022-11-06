@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bErMujJFWTZf+vMfGwvxyLYgsXDU4X/WzP+nFZQ8Aqs1oc5A7JxUOA7EOenBpU3TbbS40oRp0tZyQB4JFN+lPQ==",
+  "dgSpecHash": "ipvVOrgxTCyyRg68PAk2s+7ow3ArQx2jyb7+R3l6rK3u6MYIMnJOKQLCpqSOO2ZruK7S+s0KzM8RQMz1Rel2FQ==",
   "success": true,
-  "projectFilePath": "/home/ghostkeeper/code/dotnet/gradebook/src/GradeBook/GradeBook.csproj",
+  "projectFilePath": "/home/ghostkeeper/Documents/GitHub/csharp-writing-tests/src/GradeBook/GradeBook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

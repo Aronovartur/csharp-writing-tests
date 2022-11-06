@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HUU8vUKbOb6784w+aaMl9jjRewvwYezv9aPmNWRKACpyp/Z+Yb9N+mvvoZ55Y9eP89NKKQyKCWG+Qw+WU2KM5Q==",
+  "dgSpecHash": "ww8KMBeoQ+l83A0C17NFkvGeFYw1HCWSCm+Ij7EWH/C0fJwqxCmHkGuiCx/kKC7tfRU3CRL6v1FHxc7l4lT02A==",
   "success": true,
-  "projectFilePath": "/home/ghostkeeper/code/dotnet/gradebook/test/GradeBook.test/GradeBook.test.csproj",
+  "projectFilePath": "/home/ghostkeeper/Documents/GitHub/csharp-writing-tests/test/GradeBook.test/GradeBook.test.csproj",
   "expectedPackageFiles": [
     "/home/ghostkeeper/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/home/ghostkeeper/.nuget/packages/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg.sha512",
